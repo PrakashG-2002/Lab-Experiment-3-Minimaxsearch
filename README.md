@@ -1,6 +1,6 @@
 # Lab-Experiment-3-Minimaxsearch
 ### DATE: 11-03-2024                                                                            
-### REGISTER NUMBER : 212221040073
+### REGISTER NUMBER : 212221040126
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
